@@ -1,0 +1,9 @@
+#Dotenv file
+
+.env
+
+brodcast/
+lib/
+
+.DS_Store
+zkout/
