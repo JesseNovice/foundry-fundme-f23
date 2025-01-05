@@ -2,7 +2,7 @@
 
 This is my version of the Fund Me Contract from the Cyfrin Solidity Course. (Link Below).
 
-My deployed versio - https://sepolia.etherscan.io/address/0xfba749c43cd5fb568fa92f64ea5babdefbb66510
+My deployed version - https://sepolia.etherscan.io/address/0xfba749c43cd5fb568fa92f64ea5babdefbb66510
 
 Note my remapping.txt may be different than yours so please check this if you run into any issues with the forge-std lbrary.
 
