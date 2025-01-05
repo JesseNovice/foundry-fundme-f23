@@ -1,6 +1,8 @@
 # Foundry Fund Me
 
-This is my version of the Fund Me Contract from the Cyfrin Solidity Course. (Link Below).
+This is my version of the Fund Me Contract from the Cyfrin Solidity Course. (Link Below to the deployed contract on Sepolia Network).
+
+This contract is a funding contract where users can send ETH to the contract and the owner can withdraw the funds.
 
 My deployed version - https://sepolia.etherscan.io/address/0xfba749c43cd5fb568fa92f64ea5babdefbb66510
 
